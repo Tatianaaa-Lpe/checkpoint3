@@ -65,7 +65,7 @@
 
 **Q.2.5.2 Quels types de communications sont autorisées ?**
 
-- IPv6 
+- Trafic local et IPv6
 
 **Q.2.5.3 Quels types sont interdit ?**
 
