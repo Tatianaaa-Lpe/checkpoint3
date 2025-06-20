@@ -28,7 +28,7 @@
 
 **Q.1.2.2 De même, bloquer sa connexion au seul ordinateur CLIENT01.**
 
-- ![image](
+- ![image](Images_Ex1/Restriction_Client01.png)
 
 **Q.1.2.3 Mettre en place une stratégie de mot de passe pour durcir les comptes des utilisateurs de l'OU LabUsers.**
 
