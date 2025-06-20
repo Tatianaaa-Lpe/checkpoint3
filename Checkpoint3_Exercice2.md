@@ -6,7 +6,7 @@
 
 **Q.2.1.2 Quelles préconisations proposes-tu concernant ce compte ?**
 
-- Mettre un mot de passe compliqué, limiter les droits d'accès aux dossiers, fichiers, paramètres .., verrouillage du compte si non-utilisation, restriction accès internet.
+- Mettre un mot de passe compliqué (caractères spéciaux ..), limiter les droits d'accès aux dossiers, fichiers, paramètres .., verrouillage du compte si non-utilisation, restriction accès internet.
 
 # Partie 2 : Configuration de SSH
 
