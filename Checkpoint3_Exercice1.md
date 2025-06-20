@@ -13,7 +13,7 @@
 
 **Q.1.1.3 Modifier le groupe de l'OU dans laquelle était Kelly Rhameur en conséquence.**
 
-- ![image](Images_Ex1/Modif_OU.png)
+- ![image](Images_Ex1/OU.png)
 
 **Q.1.1.4 Créer le dossier Individuel du nouvel utilisateur et archive celui de Kelly Rhameur en le suffixant par -ARCHIVE.**
 
