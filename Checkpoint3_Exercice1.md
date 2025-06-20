@@ -9,6 +9,7 @@
 **Q.1.1.2 Créer une OU DeactivatedUsers et déplace le compte désactivé de Kelly Rhameur dedans.**
 
 - ![image](Images_Ex1/DesactivedUsers.png)
+- ![image](Images_Ex1/Désactivation_Compte_User.png)
 
 **Q.1.1.3 Modifier le groupe de l'OU dans laquelle était Kelly Rhameur en conséquence.**
 
